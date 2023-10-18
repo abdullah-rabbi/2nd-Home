@@ -10,6 +10,10 @@
     display: flex;
 }
 
+.col-1of-3 {
+    width: 33.33%;
+}
+
 body {
     font-size: 15px;
     font-weight: 400;
@@ -166,4 +170,100 @@ body {
 
 .lorem {
     font-size: 15px;
+}
+
+/*home-section*/
+
+.home-section {
+    padding: 80px 100px;
+    background-color: #ffffff;
+}
+
+.card-font {
+    background-color: #efebe9;
+    width: 250px;
+    height: 350px;
+    margin: 40px;
+}
+
+.inner-card {
+    height: 150px;
+    width: 250px;
+    background-image: url("img/house1.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.maj {
+    margin-top: -18px;
+    margin-left: 35px;
+}
+
+.home {
+    font-size: 13px;
+    font-family: 'Prompt', sans-serif;
+    text-align: center;
+    color: #fff;
+    background-color: #101d2ce6;
+    width: 80%;
+    padding: 6px 0;
+}
+
+.home2 {
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    color: #fff;
+    background-color: #c69963;
+    width: 100%;
+    padding: 6px 0;
+}
+
+.maj2 {
+    margin-top: 30px;
+}
+
+.usa {
+    font-size: 13px;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.price {
+    font-size: 13px;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 30px;
+    margin-left: 90px;
+    
+}
+
+.usa2 {
+    font-size: 13px;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.price2 {
+    font-size: 13px;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 50px;
+    margin-left: 72px;
+    
+}
+
+.inner-card2 {
+    height: 150px;
+    width: 250px;
+    background-image: url("img/house2.jpg");
+    background-size: cover;
+    background-position: center;   
+}
+
+.inner-card3 {
+    height: 150px;
+    width: 250px;
+    background-image: url("img/house3.jpg");
+    background-size: cover;
+    background-position: center;   
 }
