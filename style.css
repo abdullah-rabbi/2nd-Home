@@ -247,7 +247,7 @@ body {
 .price2 {
     font-size: 13px;
     font-family: 'Montserrat', sans-serif;
-    margin-top: 50px;
+    margin-top: 55px;
     margin-left: 72px;
     
 }
@@ -267,3 +267,27 @@ body {
     background-size: cover;
     background-position: center;   
 }
+.inner-card4 {
+    height: 150px;
+    width: 250px;
+    background-image: url("img/house4.jpg");
+    background-size: cover;
+    background-position: center;   
+}
+
+.inner-card5 {
+    height: 150px;
+    width: 250px;
+    background-image: url("img/house5.jpg");
+    background-size: cover;
+    background-position: center;   
+}
+
+.inner-card6 {
+    height: 150px;
+    width: 250px;
+    background-image: url("img/house6.jpg");
+    background-size: cover;
+    background-position: center;   
+}
+
