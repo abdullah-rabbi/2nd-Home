@@ -71,6 +71,20 @@ body {
     margin: 20px 0px;
 }
 
+.sub {
+    height: 90vh;
+    width: 30%;
+    background-color: #101d2c;
+    margin-left: 842px;
+    margin-top: -497px;
+}
+
+.rel {
+    color: #c69963;
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+}
+
 /*about-section*/
 
 
