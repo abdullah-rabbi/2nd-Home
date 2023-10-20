@@ -102,7 +102,7 @@ body {
 /*section-2*/
 
 .midle-2 {
-    width: 50%
+    width: 50%;
 }
 
 .img {
@@ -291,3 +291,32 @@ body {
     background-position: center;   
 }
 
+
+/*fother-section*/
+
+.fother-section {
+    height: 300PX;
+    background-color: #101d2c;
+}
+
+.find1 {
+    margin-top: -60px;
+    padding: 80px 146PX;
+}
+
+.find {
+    font-size: 10px;
+    font-family: 'Raleway', sans-serif;
+    color: #FFF;
+    text-decoration: none;
+    margin: 19px;
+}
+
+
+footer {
+    font-size: 12px;
+    font-family: 'Prompt', sans-serif;
+    text-align: center;
+    color: #fff;
+    margin-top: 20px;
+}
